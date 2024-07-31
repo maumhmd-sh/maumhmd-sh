@@ -1,8 +1,8 @@
-### Hi there 👋
-_______________________________
-I'm Maula, I'am a new Cloud Devolooper, bug hunter, Administrator Network, and Vocational High School students. I'm isnterseted in Cloud Development, and Online Communities. I wrok on random projects in my free time, a lot involving Discord!
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,git,docker,arduino,ae,grafana,js,linux,mysql,nodejs,html,css,php,mongodb.net,go,py" />
-  </a>
-</p>
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
