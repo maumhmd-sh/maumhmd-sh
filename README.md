@@ -14,34 +14,16 @@ With a robust background in IT System Administration and a specialized focus as 
     </a>
   </p>
 <details open> 
+<h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-  <summary><h2>🔥 Streak Stats</h2></summary>
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  
-  <p>
-    <a href="https://github.com/MHD1890/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MHD1890&theme=blue_navy&hide_border=true"/>
-    </a>
-  </p>
-
-
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHD1890&show_icons=true&theme=blue_navy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MHD1890&repo=granfan-loki)](https://github.com/MHD1890/grafana-loki)
-  
-  <p align="left">
-<a href="https://github.com/MHD1890/Grafana-Mikrotik"><img width="278" src="https://mhd1890-github-readme-stats.vercel.app/api/pin/?username=MHD18901&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grafana-Mikrotik"></a>
-  </p>
-
-  <p align="left">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHD1890&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHD1890&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
