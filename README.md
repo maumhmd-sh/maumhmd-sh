@@ -8,6 +8,7 @@ With a robust background in IT System Administration and a specialized focus as 
   <summary><h2>📊 Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHD1890&show_icons=true&theme=blue_navy)
   <p>
     <a href="https://github.com/MHD1890/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
@@ -21,7 +22,7 @@ With a robust background in IT System Administration and a specialized focus as 
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHD1890&show_icons=true&theme=blue_navy)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MHD1890&repo=granfan-loki)](https://github.com/MHD1890/grafana-loki)
   
   <p align="left">
