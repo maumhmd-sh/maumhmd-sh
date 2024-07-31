@@ -9,7 +9,7 @@ With a robust background in IT System Administration and a specialized focus as 
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MHD1890&repo=Mikrotik-Grafana)](https://github.com/MHD1890/Grafana-Mikrotik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MHD1890&repo=mikrotik-grafana)](https://github.com/MHD1890/Grafana-Mikrotik)
   
   <p align="left">
 <a href="https://github.com/MHD1890/Grafana-Mikrotik"><img width="278" src="https://mhd1890-github-readme-stats.vercel.app/api/pin/?username=MHD18901&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grafana-Mikrotik"></a>
