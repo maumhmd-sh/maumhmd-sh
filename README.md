@@ -1,3 +1,12 @@
+### Hi there 👋
+_______________________________
+I'm Maula, I'am a new Cloud Devolooper, bug hunter, Administrator Network, and Vocational High School students. I'm isnterseted in Cloud Development, and Online Communities. I wrok on random projects in my free time, a lot involving Discord!
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,git,docker,arduino,ae,grafana,js,linux,mysql,nodejs,html,css,php,mongodb.net,go,py" />
+  </a>
+</p>
+
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Maula!
@@ -7,5 +16,3 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=MHD1890&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHD1890&theme=github_dark_icons=true)
