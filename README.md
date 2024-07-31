@@ -9,6 +9,7 @@ With a robust background in IT System Administration and a specialized focus as 
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHD1890&show_icons=true&theme=transparent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MHD1890&repo=granfan-loki)](https://github.com/MHD1890/grafana-loki)
   
   <p align="left">
