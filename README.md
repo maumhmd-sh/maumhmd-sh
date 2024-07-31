@@ -1,13 +1,5 @@
-# 👋 Hi, I'm Maula!
-👩🏻‍💻 Cloud and Network Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [IT Network](https://www.instagram.com/smkn5telkomaceh?igsh=MnA3ZHRmYzl6cTJi) at SMKN 5 Telkom Banda Aceh<br/>
-🎨 Making Project about Network adn cloud and productivity on [Instagram](https://www.instagram.com/maumhmd)<br/>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,git,docker,arduino,ae,grafana,js,linux,mysql,nodejs,html,css,php,mongodb.net,go,py" />
-  </a>
-</p>
+# 🏄‍♂️ MHD1890
 
-<!-- Level 3: Add custom code -->
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=MHD1890&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+**`Networking (Cloud and Networking Engginer)`**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
