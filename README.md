@@ -18,3 +18,4 @@ With a robust background in IT System Administration and a specialized focus as 
   </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHD1890&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHD1890&exclude_repo=github-readme-stats,anuraghazra.github.io)
