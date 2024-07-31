@@ -4,6 +4,19 @@
 
 With a robust background in IT System Administration and a specialized focus as an AWS DevOps Engineer, I bring a wealth of experience spanning over six years in the dynamic IT industry. My collaborative skills are well-honed, enabling me to work seamlessly alongside other developers to drive project success. I take pride in my track record of successfully delivering numerous IoT Cloud and CI/CD projects, showcasing my ability to navigate and excel in complex technical environments. My expertise is not just in managing systems, but in orchestrating the seamless deployment and operation of cutting-edge solutions that propel businesses forward.
 
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+  <h3>🔥 Streak Stats</h3>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
