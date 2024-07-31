@@ -20,9 +20,3 @@ With a robust background in IT System Administration and a specialized focus as 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MHD1890&show_icons=true&include_all_commits=true&count_private=true&theme=blue_navy&hide_border=true" height="200px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MHD1890&langs_count=8&layout=compact&theme=blue_navy&hide_border=true" height="200px"/></a>
   <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MHD1890 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MHD1890&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
