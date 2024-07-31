@@ -8,17 +8,3 @@ With a robust background in IT System Administration and a specialized focus as 
     <img src="https://skillicons.dev/icons?i=aws,gcp,git,docker,arduino,ae,grafana,js,linux,mysql,nodejs,html,css,php,mongodb.net,go,py" />
   </a>
 </p>
-
-
-<h2>🔥 Streak Stats</h2>
-<p>
-    <a href="https://github.com/MHD1890/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MHD1890&theme=blue_navy&hide_border=true"/>
-    </a>
-  </p>
-
-<h2>💻 GitHub Profile Stats</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MHD1890&show_icons=true&include_all_commits=true&count_private=true&theme=blue_navy&hide_border=true" height="200px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MHD1890&langs_count=8&layout=compact&theme=blue_navy&hide_border=true" height="200px"/></a>
-  <br/> 
