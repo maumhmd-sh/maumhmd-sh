@@ -25,4 +25,4 @@ With a robust background in IT System Administration and a specialized focus as 
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MHD1890's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MHD1890&theme=blue_navy&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MHD1890's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MHD1890&langs_count=8&layout=compact&theme=blue_navy&hide_border=true" /></a>
