@@ -10,8 +10,8 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 - **Network Security:** 🔒 Firewalls, VPN, IDS/IPS
 - **Cloud Computing:** ☁️ AWS (EC2, S3, Lambda)
-- **Automation:** 🛠️ Terraform, Ansible, Python
-- **Monitoring & Management:** 📊 Grafana, Prometheus, Nagios
+- **Automation:** 🛠️ Terraform, Ansible, Python, Kurbenets, Docker
+- **Monitoring & Management:** 📊 Grafana, Prometheus, Nagios, Zabbit, Dude
 
 ---
 
