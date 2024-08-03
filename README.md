@@ -1,9 +1,39 @@
-# 🏄‍♂️ MHD1890
-<p>Fun With Networking</p>
+# Hi there 👋
 
-**`Networking (Cloud and Networking Engginer)`**
+🔐 **Network Security Enthusiast** | ☁️ **AWS Cloud Practitioner** | 🛠️ **Network System Architect**
 
-With a robust background in IT System Administration and a specialized focus as an AWS DevOps Engineer, I bring a wealth of experience spanning over six years in the dynamic IT industry. My collaborative skills are well-honed, enabling me to work seamlessly alongside other developers to drive project success. I take pride in my track record of successfully delivering numerous IoT Cloud and CI/CD projects, showcasing my ability to navigate and excel in complex technical environments. My expertise is not just in managing systems, but in orchestrating the seamless deployment and operation of cutting-edge solutions that propel businesses forward.
+I'm passionate about building **secure** and **scalable** network infrastructures. I specialize in **Network Security**, **Cloud Deployments**, and **Automation**. Let's connect and collaborate on exciting projects!
+
+---
+
+### 🔧 **Skills & Tools**
+
+- **Network Security:** 🔒 Firewalls, VPN, IDS/IPS
+- **Cloud Computing:** ☁️ AWS (EC2, S3, Lambda)
+- **Automation:** 🛠️ Terraform, Ansible, Python
+- **Monitoring & Management:** 📊 Grafana, Prometheus, Nagios
+
+---
+
+### 🚀 **Projects & Contributions**
+
+- **🔗 [Network Security Framework](#)**  
+  A robust framework for securing enterprise networks, featuring firewall configurations and VPN setups.
+
+- **☁️ [AWS Cloud Architectures](#)**  
+  Scalable and secure AWS architectures using best practices and automation with Terraform and CloudFormation.
+
+- **⚙️ [Network Automation Tools](#)**  
+  Scripts and tools for automating network management, reducing manual configuration tasks and improving efficiency.
+
+---
+
+### 🌐 **Let's Connect!**
+- [LinkedIn](#) | [Instragam](#) | [Blog](#)
+
+---
+
+*“Building a secure future, one network at a time.”* 🌍
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,git,docker,arduino,ae,grafana,js,linux,mysql,nodejs,html,css,php,mongodb.net,go,py,cloudflare,jenkins,prometheus,raspberrypi,elasticsearch,eclipse" />
