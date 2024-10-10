@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Back to 1982&size=25&duration=5001&pause=1000&color=F7F7F7&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Maula+Muhammad+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=5001&pause=1000&color=F7F7F7&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Maula+Muhammad+" alt="Typing SVG" />
 
 🔐 **Network Security Enthusiast** | ☁️ **AWS Cloud Practitioner** | 🛠️ **Network System Architect**
 
