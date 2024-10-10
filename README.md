@@ -1,4 +1,4 @@
-# Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=5001&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Maula+Muhammad+" alt="Typing SVG" />
 
 🔐 **Network Security Enthusiast** | ☁️ **AWS Cloud Practitioner** | 🛠️ **Network System Architect**
 
