@@ -44,9 +44,9 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![](https://github-readme-stats.vercel.app/api?username=maumhmd-sh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
-## 🧩 Quiz Cepat
-Apakah kamu suka coding?
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/maumhmd-sh">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿Ｓｔａｔｓ】 
 
-[![Ya](https://img.shields.io/badge/Jawab-Ya-brightgreen)](https://github.com/user/repo/issues/new?title=Jawab:+Ya)  
-[![Tidak](https://img.shields.io/badge/Jawab-Tidak-red)](https://github.com/user/repo/issues/new?title=Jawab:+Tidak)
-
+</h3>
