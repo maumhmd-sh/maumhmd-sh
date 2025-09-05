@@ -60,7 +60,7 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=test-repo&theme=radical)](https://github.com/maumhmd-sh/test-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=test-repo&theme=radical)
 
 
 
