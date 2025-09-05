@@ -41,30 +41,5 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 </p>
 
 
-<h1>🔥 Streak Stats</h1>
-<table>
-   <tr>
-<!--     <th align="center"></th>
-    <th align="center"></th> -->
-  </tr>
-  <tr>
-    <td align="center">
-        <img alt="" width="400" src="https://github.com/MHD1890/svg/blob/main/metrics.classic.svg" alt=""></img>
-    </td>
-    <td align="center">
-        <img alt="" width="400" src="https://github.com/MHD1890/svg/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
-   </td>
-  </tr>
- <tr>
-   <td align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MHD1890&show_icons=true&include_all_commits=true&count_private=true&theme=blue_navy&hide_border=true"/></a>
-    </a>
-    </td>
- <td>
-      <a href="https://github.com/MHD1890/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MHD1890&theme=blue_navy&hide_border=true"/>
-    </a>
- </td>
- </tr>
-</table>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=maumhmd-sh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
