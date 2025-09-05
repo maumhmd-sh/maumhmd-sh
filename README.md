@@ -47,15 +47,16 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 ### 🌐 **Stats**
 
-<p align="center">
-  <a href="https://github.com/maumhmd-sh">
-    <img src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=neon" alt="GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon" alt="Top Languages"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=neon" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/walidbosso/Java_Task_Scheduling">
@@ -65,5 +66,6 @@ I'm passionate about building **secure** and **scalable** network infrastructure
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=SpringBoot-Angular-Items-CRUD&theme=radical" alt="SpringBoot-Angular-Items-CRUD"/>
   </a>
 </p>
+
 
 
