@@ -58,12 +58,6 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 
-[![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=maumhmd-sh&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=maumhmd-sh)](https://github.com/maumhmd-sh?tab=repositories&q=&type=&language=&sort=stargazers)
-
-
-
- ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@maumhmd-sh&no-frame=true&layout=compact&&theme=algolia&link="https://www.github.com/maumhmd-sh/") 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maumhmd-sh&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
