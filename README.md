@@ -60,7 +60,7 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=test-repo&theme=radical)
-
-
+| Project 1 | Project 2 |
+|-----------|-----------|
+| [![Java Task Scheduling](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=Java_Task_Scheduling&theme=radical)](https://github.com/walidbosso/Java_Task_Scheduling) | [![SpringBoot-Angular-Items-CRUD](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=SpringBoot-Angular-Items-CRUD&theme=radical)](https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD) |
 
