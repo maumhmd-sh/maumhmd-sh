@@ -56,6 +56,6 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon)
 
 
