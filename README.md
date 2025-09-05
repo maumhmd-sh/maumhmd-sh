@@ -56,18 +56,7 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 
-  <p align="center">
 
-[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/maumhmd-sh/SpringBoot-Angular-TrainingCenter-Management)
-[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/maumhmd-sh/SpringBoot_Football_Matches)
-[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/maumhmd-sh/Laravel_pharmacy_management)
-[![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/maumhmd-sh/Java-threads-udp-tcp-rmi-charts)
-[![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/maumhmd-sh/mongdb_express_Movies_api_using_openai)
-[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/maumhmd-sh/Nodejs_playground)
-[![maumhmd-sh Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=maumhmd-sh\&theme=holi)](https://github.com/maumhmd-sh/maumhmd-sh)
-[![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/maumhmd-sh/CV_BOUSSOU_Walid)
-[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=algolia)](https://github.com/maumhmd-sh/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
-[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=AJAX-XML\&theme=algolia)](https://github.com/maumhmd-sh/AJAX-XML)
 
 [![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=maumhmd-sh&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=maumhmd-sh)](https://github.com/maumhmd-sh?tab=repositories&q=&type=&language=&sort=stargazers)
 
@@ -78,13 +67,3 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 
-[![Angular-login Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Angular-login\&theme=algolia)](https://github.com/maumhmd-sh/Angular-login)
-[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/maumhmd-sh/MERN_Stack_BlogProject)
-[![MATLAB_Image_processing_app Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=MATLAB_Image_processing_app\&theme=holi)](https://github.com/maumhmd-sh/MATLAB_Image_processing_app)
-[![Python-GUI Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Python-GUI\&theme=holi)](https://github.com/maumhmd-sh/Python-GUI)
-[![Python_People_tracking Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Python_tracking\&theme=github_dark)](https://github.com/maumhmd-sh/Python_tracking)
-[![Data_mining Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=R_Data_mining\&theme=github_dark)](https://github.com/maumhmd-sh/R_Data_mining)
-[![C_System_Manipulation Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=C_System_Manipulation\&theme=holi)](https://github.com/maumhmd-sh/C_System_Manipulation)
-[![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Selenium-Web-Testing-Trello\&theme=holi)](https://github.com/maumhmd-sh/Selenium-Web-Testing-Trello)  
-[![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/maumhmd-sh/Android_Java_Projects)
-[![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=React-native-projects\&theme=algolia)](https://github.com/maumhmd-sh/React-native-projects)
