@@ -59,3 +59,8 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon)
 
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=test-repo&theme=radical)](https://github.com/maumhmd-sh/test-repo)
+
+
+
