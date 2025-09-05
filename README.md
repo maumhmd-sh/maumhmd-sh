@@ -49,15 +49,13 @@ I'm passionate about building **secure** and **scalable** network infrastructure
  <p align="center">
 <a href="https://github.com/maumhmd-sh">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
-
-</a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=neon"/>
 
 
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon)]
 
 
