@@ -46,21 +46,24 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 ### 🌐 **Stats**
- <p align="center">
-<a href="https://github.com/maumhmd-sh">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=neon"/>
+<p align="center">
+  <a href="https://github.com/maumhmd-sh">
+    <img src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=neon" alt="GitHub Stats"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon" alt="Top Languages"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/walidbosso/Java_Task_Scheduling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=Java_Task_Scheduling&theme=radical" alt="Java Task Scheduling"/>
+  </a>
+  <a href="https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=SpringBoot-Angular-Items-CRUD&theme=radical" alt="SpringBoot-Angular-Items-CRUD"/>
+  </a>
+</p>
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon)
-
-
-
-| Project 1 | Project 2 |
-|-----------|-----------|
-| [![Java Task Scheduling](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=Java_Task_Scheduling&theme=radical)](https://github.com/walidbosso/Java_Task_Scheduling) | [![SpringBoot-Angular-Items-CRUD](https://github-readme-stats.vercel.app/api/pin/?username=walidbosso&repo=SpringBoot-Angular-Items-CRUD&theme=radical)](https://github.com/walidbosso/SpringBoot-Angular-Items-CRUD) |
 
