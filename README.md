@@ -56,5 +56,6 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=neon)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=neon" alt="My github stats"/>
+
 
