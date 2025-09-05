@@ -52,5 +52,13 @@ I'm passionate about building **secure** and **scalable** network infrastructure
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
 
 </a>
-
-<br/>
+[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/maumhmd-sh/SpringBoot-Angular-TrainingCenter-Management)
+[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/maumhmd-sh/SpringBoot_Football_Matches)
+[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/maumhmd-sh/Laravel_pharmacy_management)
+[![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/maumhmd-sh/Java-threads-udp-tcp-rmi-charts)
+[![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/maumhmd-sh/mongdb_express_Movies_api_using_openai)
+[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/maumhmd-sh/Nodejs_playground)
+[![maumhmd-sh Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=maumhmd-sh\&theme=holi)](https://github.com/maumhmd-sh/maumhmd-sh)
+[![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/maumhmd-sh/CV_BOUSSOU_Walid)
+[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=algolia)](https://github.com/maumhmd-sh/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
+[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=maumhmd-sh\&repo=AJAX-XML\&theme=algolia)](https://github.com/maumhmd-sh/AJAX-XML)
