@@ -44,9 +44,7 @@ I'm passionate about building **secure** and **scalable** network infrastructure
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![](https://github-readme-stats.vercel.app/api?username=maumhmd-sh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/maumhmd-sh">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Ｓｔａｔｓ】 
 
-</h3>
+<p align="center">
+ <br/>
+<a href="https://github.com/walidbosso"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
