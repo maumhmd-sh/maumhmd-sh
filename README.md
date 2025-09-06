@@ -70,3 +70,6 @@ Passionate about building reliable, secure, and automated server & network infra
 </table>
 
 📝 **License:** MIT License © 2025 Maula
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&style=flat-square)
+![GCP Skills](https://img.shields.io/badge/GCP-Google%20Cloud-blue?logo=google-cloud&style=flat-square)
