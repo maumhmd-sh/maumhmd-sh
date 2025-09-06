@@ -11,38 +11,51 @@ Passionate about building reliable, secure, and automated server & network infra
 
 ## 🔧 Skills & Tools
 
+### ☁️ Cloud Computing
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&style=flat-square)
 ![AWS re/Start](https://img.shields.io/badge/AWS-re%2FStart-orange?logo=amazon-aws&style=flat-square)
 ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud-blue?logo=google-cloud&style=flat-square)
 
+### 🌐 Networking & Security
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-Network-red?style=flat-square)
 ![Cisco](https://img.shields.io/badge/Cisco-Network-blue?style=flat-square)
 ![Fortinet](https://img.shields.io/badge/Fortinet-Security-orange?style=flat-square)
 ![pfSense](https://img.shields.io/badge/pfSense-Firewall-lightgrey?style=flat-square)
 
+### 🐳 DevOps & Monitoring
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?logo=grafana&style=flat-square)
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-orange?logo=zabbix&style=flat-square)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-red?logo=prometheus&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins&style=flat-square)
 
+### 💻 Programming & Scripting
 ![PHP](https://img.shields.io/badge/PHP-Programming-blue?logo=php&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?logo=javascript&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js&style=flat-square)
 
-**- Server & OS:** Linux (Amazon Linux 2, Ubuntu, Debian, Centos, Alma Linux), Bash, Shell Scripting  
-
-**- Virtualization:** Proxmox, KVM, QCOW2, Exsi, Spehere  
-
-**- Containers & Automation:** Docker, Python, Terraform, Ansible  
-
-**- Networking & Security:** VLAN, Firewalls, VPN, Routing, MIkrotik, Cisco, Fortinet
-
-**- Monitoring & Management:** Prometheus, Grafana, Nagios, Zabbix
-
-**- Cloud Computing:** ☁️ AWS - Certified Cloud Practitioner | ☁️ GCP (Compute Engine, Cloud Functions, Vertex AI) 
-
 ---
+
+### ⚙️ Server & OS
+- Linux (Amazon Linux 2, Ubuntu, Debian, CentOS, AlmaLinux)  
+- Bash, Shell Scripting  
+
+### 🖥 Virtualization
+- Proxmox, KVM, QCOW2, ESXi, vSphere  
+
+### 🐳 Containers & Automation
+- Docker, Python, Terraform, Ansible  
+
+### 🌐 Networking & Security
+- VLAN, Firewalls, VPN, Routing, Mikrotik, Cisco, Fortinet  
+
+### 📊 Monitoring & Management
+- Prometheus, Grafana, Nagios, Zabbix  
+
+### ☁️ Cloud Platforms
+- AWS - Certified Cloud Practitioner  
+- GCP (Compute Engine, Cloud Functions, Vertex AI)
+
 
 ### 🚀 **Projects & Contributions**
 
