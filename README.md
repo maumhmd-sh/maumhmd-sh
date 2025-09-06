@@ -18,29 +18,16 @@ Passionate about building reliable, secure, and automated server & network infra
 
 ---
 
-## 🚀 Projects & Contributions
+### 🚀 **Projects & Contributions**
 
-### 🔗 Server Setup & Repo Fix
-Fix Amazon Linux 2 repos, automate updates & package management.  
-**Tools:** Bash, Yum  
+- **🔗 [Network Security Framework](#)**  
+  A robust framework for securing enterprise networks, featuring firewall configurations and VPN setups.
 
-### ☁️ Docker & PayaNet App
-Local speed-test web app with Docker, responsive & dark mode.  
-**Tools:** Docker, HTML/CSS/JS  
+- **☁️ [AWS Cloud Architectures](#)**  
+  Scalable and secure AWS architectures using best practices and automation with Terraform and CloudFormation.
 
-### ⚙️ VLAN & Networking Lab
-VLAN setup & routing on Mikrotik, switch configs, subnet isolation.  
-**Tools:** Mikrotik RouterOS, Switch CLI  
-
-### 🔌 UPS Monitoring & Alert
-Monitor UPS status & send alerts, integrate with Prometheus & Grafana.  
-**Tools:** Windows/Linux, Prometheus, Grafana  
-
-### 🖥 Virtualization & QCOW2
-Install QCOW2 images on Proxmox, setup Wake-on-LAN, Windows tunneling.  
-**Tools:** Proxmox, KVM, Bash  
-
----
+- **⚙️ [Network Automation Tools](#)**  
+  Scripts and tools for automating network management, reducing manual configuration tasks and improving efficiency.
 
 ## 🌐 Let's Connect!
 
