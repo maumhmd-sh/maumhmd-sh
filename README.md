@@ -53,7 +53,7 @@ I'm passionate about building **secure** and **scalable** network infrastructure
       <img src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=tokyonight" alt="GitHub Stats" width="90%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=5&theme=tokyonight" alt="Top Languages" width="90%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidbosso&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" width="90%"/>
     </td>
   </tr>
   <tr>
