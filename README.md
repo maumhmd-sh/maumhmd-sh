@@ -56,6 +56,7 @@ Passionate about building reliable, secure, and automated server & network infra
 - AWS - Certified Cloud Practitioner  
 - GCP (Compute Engine, Cloud Functions, Vertex AI)
 
+---
 
 ### 🚀 **Projects & Contributions**
 
