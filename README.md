@@ -73,5 +73,10 @@ Passionate about building reliable, secure, and automated server & network infra
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&style=flat-square)
 ![GCP Skills](https://img.shields.io/badge/GCP-Google%20Cloud-blue?logo=google-cloud&style=flat-square)
-![Server Uptime](https://img.shields.io/badge/Server-Uptime-green?style=flat-square)
-![Last Restart](https://img.shields.io/badge/Last-Restart-✅-green?style=flat-square)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-Network-red?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-Network-blue?style=flat-square)
+![Fortinet](https://img.shields.io/badge/Fortinet-Security-orange?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-orange?logo=grafana&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker&style=flat-square)
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?logo=javascript&style=flat-square)
