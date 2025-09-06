@@ -10,11 +10,12 @@ Passionate about building reliable, secure, and automated server & network infra
 
 ## 🔧 Skills & Tools
 
-**Server & OS:** Linux (Amazon Linux 2, Ubuntu, Debian), Bash, Shell Scripting  
-**Virtualization:** Proxmox, KVM, QCOW2, Wake-on-LAN  
+**Server & OS:** Linux (Amazon Linux 2, Ubuntu, Debian, Centos, Alma Linux), Bash, Shell Scripting  
+**Virtualization:** Proxmox, KVM, QCOW2, Exsi, Spehere  
 **Containers & Automation:** Docker, Python, Terraform, Ansible  
-**Networking & Security:** VLAN, Mikrotik, Firewalls, VPN, Routing  
-**Monitoring & Management:** Prometheus, Grafana, UPS Monitoring, Nagios, Zabbix  
+**Networking & Security:** VLAN, Firewalls, VPN, Routing, MIkrotik, Cisco, Fortinet
+**Monitoring & Management:** Prometheus, Grafana, Nagios, Zabbix
+**Cloud Computing:** ☁️ AWS - Certified Cloud Practitioner | ☁️ GCP (Compute Engine, Cloud Functions, Vertex AI) 
 
 ---
 
