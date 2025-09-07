@@ -85,7 +85,7 @@ Passionate about building reliable, secure, and automated server & network infra
       <img src="https://github-readme-stats.vercel.app/api?username=maumhmd-sh&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=tokyonight" alt="GitHub Stats" width="90%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumhmd-sh&layout=compact&langs_count=9&theme=tokyonight" alt="Top Languages" width="80%" height="70%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maumhmd-sh&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" width="80%" height="70%"/>
     </td>
   </tr>
   <tr>
