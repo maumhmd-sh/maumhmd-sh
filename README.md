@@ -73,7 +73,7 @@ Passionate about building reliable, secure, and automated server & network infra
 
 ## 🌐 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/maula-muhammad-5b13362b9/) | [Instagram](https://www.instagram.com/maumhmd-sh) | [Portofolio](#)  
+[LinkedIn](https://www.linkedin.com/in/maula-muhammad-5b13362b9/) | [Instagram](https://www.instagram.com/maumhmd.sh) | [Portofolio](#)  
 
 ---
 
