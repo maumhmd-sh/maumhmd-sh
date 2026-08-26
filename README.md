@@ -56,15 +56,46 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table>
+<tr>
+<td width="50%">
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"
+width="100%"
+alt="Maula's GitHub Stats"
+/>
+
+</td>
+
+<td width="50%">
+
+<img
+src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false"
+width="100%"
+alt="Maula's GitHub Streak"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+width="55%"
+alt="Top Languages"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ```text
 ┌──(maula㉿github)-[~]
 └─$ echo "FUn With Networking"
 
 FUn With Networking 🚀
-```
-
-</div>
