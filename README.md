@@ -1,6 +1,13 @@
 <div align="center">
 
 ```text
+┌──(maula㉿github)-[~]
+└─$ whoami
+```
+
+<br>
+
+```text
 ███╗   ███╗  █████╗  ██╗   ██╗ ██╗      █████╗
 ████╗ ████║ ██╔══██╗ ██║   ██║ ██║     ██╔══██╗
 ██╔████╔██║ ███████║ ██║   ██║ ██║     ███████║
@@ -9,16 +16,12 @@
 ╚═╝     ╚═╝ ╚═╝  ╚═╝  ╚═════╝  ╚══════╝╚═╝  ╚═╝
 ```
 
-### `FUn With Networking`
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=FUn+With+Networking;FUn+With+Networking;FUn+With+Networking" alt="FUn With Networking" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=7CFFB2&center=true&vCenter=true&width=850&lines=IT+Infrastructure+%7C+Network+Security+%7C+Cloud+Computing;Information+Systems+Student+at+Universitas+Terbuka" alt="Professional Headline" />
 
 </div>
-
-```text
-┌──(maula㉿github)-[~]
-└─$ whoami
-
-Maula Muhammad
-
-IT Infrastructure | Network Security | Cloud Computing
-Information Systems Student at Universitas Terbuka
-```
