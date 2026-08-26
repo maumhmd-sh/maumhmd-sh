@@ -1,7 +1,5 @@
 ## `┌──(maula㉿github)-[~/about]`
 
-<br>
-
 ```
 ███╗   ███╗  █████╗  ██╗   ██╗ ██╗      █████╗
 ████╗ ████║ ██╔══██╗ ██║   ██║ ██║     ██╔══██╗
@@ -11,9 +9,7 @@
 ╚═╝     ╚═╝ ╚═╝  ╚═╝  ╚═════╝  ╚══════╝╚═╝  ╚═╝
 ```
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=FUn+With+Networking" alt="FUn With Networking" />
+I enjoy working with networks, servers, virtualization, cloud platforms, and building things from the ground up — especially when something breaks and I have to figure out why. 😄
 
 <br>
 
