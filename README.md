@@ -1,13 +1,13 @@
 <div align="center">
 
-``
+```text id="0w2k6f"
 ┌──(maula㉿github)-[~]
-└─$ whoami
-
+└─$
+```
 
 <br>
 
-```text
+```text id="a5s8qw"
 ███╗   ███╗  █████╗  ██╗   ██╗ ██╗      █████╗
 ████╗ ████║ ██╔══██╗ ██║   ██║ ██║     ██╔══██╗
 ██╔████╔██║ ███████║ ██║   ██║ ██║     ███████║
@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=FUn+With+Networking;FUn+With+Networking;FUn+With+Networking" alt="FUn With Networking" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=FUn+With+Networking" alt="FUn With Networking" />
 
 <br>
 
