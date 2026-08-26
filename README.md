@@ -1,5 +1,3 @@
-<div align="center">
-
 ## `┌──(maula㉿github)-[~/about]`
 
 > **FUn With Networking**
@@ -7,8 +5,6 @@
 I'm a **Network & Cloud enthusiast** with a strong interest in networking, Linux infrastructure, cloud computing, and system administration.
 
 I enjoy working with networks, servers, virtualization, cloud platforms, and building things from the ground up — especially when something breaks and I have to figure out why. 😄
-
-```text
 
 <br>
 
