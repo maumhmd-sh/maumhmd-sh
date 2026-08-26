@@ -75,6 +75,7 @@ alt="Maula's GitHub Stats"
 <img
 src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false"
 width="360"
+Height="300"
 alt="Maula's GitHub Streak"
 />
 
@@ -91,6 +92,7 @@ alt="Maula's GitHub Streak"
 <img
 src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&layout=compact&langs_count=6"
 width="360"
+Height="300"
 alt="Top Languages"
 />
 
