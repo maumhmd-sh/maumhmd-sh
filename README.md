@@ -58,21 +58,21 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"
-width="100%"
+src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&card_width=420"
+width="420"
 alt="Maula's GitHub Stats"
 />
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
 <img
-src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false"
-width="100%"
+src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false&card_width=420&card_height=195"
+width="420"
 alt="Maula's GitHub Streak"
 />
 
@@ -80,11 +80,13 @@ alt="Maula's GitHub Streak"
 </tr>
 
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
+
+<br>
 
 <img
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
-width="55%"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=420"
+width="420"
 alt="Top Languages"
 />
 
