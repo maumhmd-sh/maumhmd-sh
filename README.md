@@ -100,8 +100,15 @@ alt="Top Languages"
 
 <br>
 
-```text
-┌──(maula㉿github)-[~]
-└─$ echo "FUn With Networking"
+## `┌──(maula㉿github)-[~/music]`
 
-FUn With Networking 🚀
+<div align="center">
+
+🎧 **Currently Listening**
+
+<img
+src="YOUR_SPOTIFY_README_WIDGET"
+alt="Currently Playing"
+/>
+
+</div>
