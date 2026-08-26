@@ -59,12 +59,14 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 <img
   src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&show_icons=true&count_private=false"
   width="380"
+  height="300"
   alt="Maula's GitHub Stats"
 />
 &nbsp;&nbsp;
 <img
   src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false"
   width="380"
+  height="300"
   alt="Maula's GitHub Streak"
 />
 
