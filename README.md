@@ -26,15 +26,17 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,vmware,nodejs,python,java,js,react,php,aws,gcp,mongodb,mysql,git,github" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
 <img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Linksys-00A4DE?style=for-the-badge&logo=linksys&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nodejs,python,java,js,aws,gcp,mongodb,mysql" />
+
+<br><br>
+
+
 
 </div>
 
