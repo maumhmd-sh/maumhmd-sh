@@ -51,14 +51,3 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
-
-<br>
-
-```text
-┌──(maula㉿github)-[~/skills]
-└─$ ls
-
-Networking      → MikroTik • Cisco • Fortinet • TCP/IP • Routing • Switching
-Infrastructure  → Linux • Docker • Virtualization • Server Administration
-Cloud           → AWS • Cloud Computing • AWS IoT
-Development     → Node.js • React • PHP • JavaScript • MySQL
