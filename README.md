@@ -24,6 +24,7 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 ## `┌──(maula㉿github)-[~/skills]`
 
+<div align="center">
 <!-- Networking -->
 <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
 <img src="https://img.shields.io/badge/Linksys-00A4DE?style=for-the-badge&logo=linksys&logoColor=white" />
@@ -48,6 +49,8 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 <!-- Database -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</div>
 
 <br>
 
