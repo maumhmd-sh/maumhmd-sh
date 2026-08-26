@@ -62,7 +62,7 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 <td width="50%" align="center">
 
 <img
-src="[https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&card_width=350](https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)"
+src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&card_width=350"
 width="350"
 height="195"
 alt="Maula's GitHub Stats"
