@@ -56,26 +56,24 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&card_width=350"
-width="350"
-height="195"
+src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&show_icons=true&count_private=false&card_width=360"
+width="360"
 alt="Maula's GitHub Stats"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <img
-src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false&card_width=350&card_height=195"
-width="350"
-height="195"
+src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false"
+width="360"
 alt="Maula's GitHub Streak"
 />
 
@@ -90,24 +88,14 @@ alt="Maula's GitHub Streak"
 <br>
 
 <img
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=350"
-width="350"
-height="195"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&layout=compact&langs_count=6"
+width="360"
 alt="Top Languages"
 />
 
 </td>
 
 </tr>
-</table>
-
-<br>
-
-```text
-┌──(maula㉿github)-[~]
-└─$ echo "FUn With Networking"
-
-FUn With Networking 🚀
 </table>
 
 <br>
