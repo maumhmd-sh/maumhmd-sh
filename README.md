@@ -21,3 +21,36 @@ alt="Professional Headline"
 I enjoy working with **networks, servers, virtualization, cloud platforms**, and building things from the ground up — especially when something breaks and I have to figure out why. 😄
 
 <br>
+
+## `┌──(maula㉿github)-[~/skills]`
+
+<div align="center">
+
+### `Network & Infrastructure`
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+
+<br><br>
+
+### `Development & Database`
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,php,mysql,js,git,github" />
+
+</div>
+
+<br>
+
+```text
+┌──(maula㉿github)-[~/skills]
+└─$ ls
+
+Networking      → MikroTik • Cisco • Fortinet • TCP/IP • Routing • Switching
+Infrastructure  → Linux • Docker • Virtualization • Server Administration
+Cloud           → AWS • Cloud Computing • AWS IoT
+Development     → Node.js • React • PHP • JavaScript • MySQL
