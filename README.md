@@ -8,7 +8,6 @@
 ██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗██║  ██║
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
-                 FUn With Networking
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Network+%26+Cloud+Enthusiast;Linux+%7C+Networking+%7C+Infrastructure;Building+Networks%2C+Breaking+Things%2C+Learning" alt="Typing Animation" />
