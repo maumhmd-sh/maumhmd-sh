@@ -38,6 +38,13 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 <br><br>
 
+<img src="https://cdn.simpleicons.org/linux" height="40" />
+<img src="https://cdn.simpleicons.org/docker" height="40" />
+<img src="https://cdn.simpleicons.org/mikrotik" height="40" />
+<img src="https://cdn.simpleicons.org/cisco" height="40" />
+<img src="https://cdn.simpleicons.org/fortinet" height="40" />
+<img src="https://cdn.simpleicons.org/amazonwebservices" height="40" />
+
 ### `Development & Database`
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,php,mysql,js,git,github" />
