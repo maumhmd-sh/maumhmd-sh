@@ -1,9 +1,9 @@
 <div align="center">
 
-```text
+``
 ┌──(maula㉿github)-[~]
 └─$ whoami
-```
+
 
 <br>
 
