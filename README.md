@@ -56,29 +56,49 @@ I enjoy working with **networks, servers, virtualization, cloud platforms**, and
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&show_icons=true&count_private=false"
-  width="380"
-  height="300"
-  alt="Maula's GitHub Stats"
-/>
-&nbsp;&nbsp;
-<img
-  src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false"
-  width="380"
-  height="300"
-  alt="Maula's GitHub Streak"
-/>
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="50%">
 
 <img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&layout=compact&langs_count=6"
-  width="380"
-  alt="Top Languages"
+src="https://github-readme-stats.shion.dev/api?username=maumhmd-sh&theme=midnight-purple&hide_border=false&show_icons=true&count_private=false&card_width=360"
+width="360"
+alt="Maula's GitHub Stats"
 />
 
-<br><br>
+</td>
+
+<td align="center" width="50%">
+
+<img
+src="https://streak-stats.demolab.com/?user=maumhmd-sh&theme=midnight-purple&hide_border=false"
+width="360"
+alt="Maula's GitHub Streak"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<br>
+
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=maumhmd-sh&theme=midnight-purple&hide_border=false&layout=compact&langs_count=6"
+width="360"
+alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ```text
 ┌──(maula㉿github)-[~]
